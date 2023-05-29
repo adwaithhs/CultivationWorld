@@ -1,0 +1,1 @@
+Cultivation Method is the method used for cultivation. It specifies how Essence Energy should be gathered and circulated. Different cultivation methods have different quirks and different restrictions. Some cultivation method can only used by those with a draconic [[Companion]]. Some cultivation method needs Companions with alternating elemental affinity.

@@ -1,0 +1,3 @@
+When one uses a [[Companion Egg]], the remnant soul fragments in it move to the person's Spiritual Sea and form a tiny version of the original monster. This manifestation is called a Companion. Forming a companion immediately increases the person's stats and potential. Depending on the strength of the bond one can use the skills of the Companions. Companions also help break the [[Mortal Shackles]].
+
+Like Monsters, Companions are also split into Common, Rare, Epic, Legendary and Mythic.

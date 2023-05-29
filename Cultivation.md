@@ -1,0 +1,7 @@
+Cultivation is the process by which a person gathers Essence Energy from the surroundings using a [[Cultivation Method]].  Cultivation slowly raises the capacity of one's Spiritual Sea as well as improves the bonds with ones' [[Companion]]s. 
+
+Martial practitioners start in the Mortal Realm. They cultivate and slowly increase the capacity of their Spiritual Sea. But if they continue like this they will soon reach a bottleneck. This is because the [[Mortal Shackles]] prevent one from having strength beyond a limit. So once their spiritual sea is large enough, they immediately bind a Companion. Someone in Mortal Realm can only bind with a Common Companion. With the help of the Companion they then break the first Shackle and advance to Earth Realm.
+
+Now in the Earth Realm they once again continue cultivating until they can bind the next Companion. Someone in Earth Realm can bind with a Rare Companion. This time they need to bind with 2 more Companions before they can break the second Shackle and advance to Heaven Realm. 
+
+After breaking the second Shackle, they can use skills from two different Companions at the same time. In the Heaven Realm they need 3 more Companions to break the last Shackle. The first 2 can be Epic while the last can be Legendary.

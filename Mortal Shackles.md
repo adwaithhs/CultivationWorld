@@ -1,0 +1,1 @@
+There are 3 Mortal Shackles on a average human. They prevent a person from gaining strength beyond a certain level. The only known way to break these Shackles is to bind [[Companion]]s.

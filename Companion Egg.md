@@ -1,0 +1,1 @@
+All Monsters have an Essence Crystal within them. Rarely when a monster is killed its remnant soul fragments stay in the Essence Crystal. Such a crystal is called a Companion Egg. It can be used by Martial practitioners to form a [[Companion]].
